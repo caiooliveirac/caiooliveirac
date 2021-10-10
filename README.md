@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @caiooliveirac
 - 👀 I’m a doctor interested in research about Neurosciences 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, PHP and Javascript
+- 👣 Getting experience with Flask, Laravel and Node.js for Web development
 - 💞️ I’m looking to collaborate on statistics, IA, deep learning, big data...
 
 
